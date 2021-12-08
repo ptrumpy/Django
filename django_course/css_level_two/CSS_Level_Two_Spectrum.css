@@ -1,0 +1,31 @@
+h1{
+  font-family: 'Comforter Brush', cursive;
+  text-align: center;
+}
+
+table{
+  margin: auto;
+}
+td{
+  height: 200px;
+  width:100px;
+  border: 6px solid white;
+}
+
+
+#one{
+  background-color: #ffbe0b;
+}
+
+#two{
+  background-color: #fb5607;
+}
+#three{
+  background-color: #ff006e;
+}
+#four{
+  background-color: #8338ec;
+}
+#five{
+  background-color: #3a86ff;
+}

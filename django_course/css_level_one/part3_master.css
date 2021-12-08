@@ -1,0 +1,27 @@
+.firstDev{
+  color:blue;
+}
+
+.secondDev{
+  color:red;
+}
+
+#singledout{
+  color:green;
+  text-decoration: line-through;
+}
+/* adjascent siblings */
+h3 + ul{
+  border:4px dotted purple;
+}
+
+/* descendants */
+li a{
+  color: red;
+}
+
+/* attributes */
+li a[href="www.npr.org"]{
+  color:blue;
+  border:5px solid orange;
+}

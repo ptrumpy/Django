@@ -1,0 +1,33 @@
+body{
+  background-color: #061644;
+  color: white;
+  text-align: center;
+  border-left: 60px solid #33dee1;
+  border-right: 60px solid #33dee1;
+  border-bottom: 60px solid #33dee1;
+  margin: 0px;
+}
+
+h2{
+  margin-bottom: 5%;
+}
+
+p{
+  color: #FDFFFC;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.userinput{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+
+#sbmt{
+  background-color: orange;
+  height:80px;
+  width:150px;
+  border-radius: 25px;
+  margin-bottom: 4px;
+}
